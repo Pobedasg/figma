@@ -1,0 +1,31 @@
+/* Зміна кольору та підкреслення при наведенні */
+.menu .div:hover,
+.menu .text-wrapper-2:hover,
+.menu .text-wrapper-3:hover,
+.menu .text-wrapper-4:hover {
+  color: black;
+  text-decoration: underline;
+  cursor: pointer;
+
+}
+
+/* Навігація */
+.menu .div:hover {
+  cursor: pointer;
+}
+
+/* Зображення up */
+.up:hover {
+  cursor: pointer;
+}
+
+/* Стилізація пунктів меню */
+.menu {
+  background-color: #333; /* Колір фону меню */
+  padding: 10px; /* Відступи внутрішньої області меню */
+}
+
+
+.menu a:hover {
+  color: #000000; /* Колір тексту пунктів меню при наведенні */
+}

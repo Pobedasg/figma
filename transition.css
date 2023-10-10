@@ -1,0 +1,9 @@
+/* Застосовуємо плавний перехід для меню */
+.menu {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Застосовуємо плавний перехід для посилань у меню */
+.menu a {
+  transition: color 0.3s;
+}

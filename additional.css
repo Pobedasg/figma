@@ -1,0 +1,25 @@
+.additional-section .image:hover img {
+  width: 130px;
+  height: 130px;
+  transition: width 0.3s, height 0.3s;
+}
+.additional-section .image-2:hover img {
+  width: 130px;
+  height: 130px;
+  transition: width 0.3s, height 0.3s;
+}
+.additional-section .image-3:hover img {
+  width: 130px;
+  height: 130px;
+  transition: width 0.3s, height 0.3s;
+}
+.additional-section .image-4:hover img {
+  width: 130px;
+  height: 130px;
+  transition: width 0.3s, height 0.3s;
+}
+.additional-section .image-5:hover img {
+  width: 130px;
+  height: 130px;
+  transition: width 0.3s, height 0.3s;
+}
